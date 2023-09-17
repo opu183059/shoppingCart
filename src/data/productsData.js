@@ -62,6 +62,38 @@ const productsData = [
         title: "Canon EOS",
         price: 54500,
         quantity: 1,
+    },
+    {
+        id: 9,
+        img: "/images/prod9.png",
+        rating: "★★★★",
+        title: "Nikon D300S",
+        price: 85000,
+        quantity: 1,
+    },
+    {
+        id: 10,
+        img: "/images/prod10.png",
+        rating: "★★★★",
+        title: "Hero GoPro 10",
+        price: 59000,
+        quantity: 1,
+    },
+    {
+        id: 11,
+        img: "/images/prod11.png",
+        rating: "★★★★",
+        title: "Hero GoPro 3+",
+        price: 72000,
+        quantity: 1,
+    },
+    {
+        id: 12,
+        img: "/images/prod12.png",
+        rating: "★★★★",
+        title: "Nikon D3100",
+        price: 64000,
+        quantity: 1,
     }
 ];
 
